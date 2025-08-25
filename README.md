@@ -7,4 +7,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pc1223&show_icons=true&theme=transparent&hide_border=true)
